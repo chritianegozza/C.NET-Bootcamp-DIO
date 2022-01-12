@@ -1,4 +1,4 @@
-# C.NET-Bootcamp-DIO
+# C# e .NET-Bootcamp-DIO
 ************************************************************************************
 Programa feito durante as aulas do BOOTCAMP da DIO, Decola Tech.
 
